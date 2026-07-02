@@ -174,9 +174,8 @@ Este paquete junta las dos cosas que ISELAC necesita para la temporada: pauta qu
 ## SIGUIENTES PASOS
 
 1. **Confirmar arranque** — dar el visto bueno al paquete y al presupuesto de pauta.
-2. **Compartir accesos** — perfiles de Facebook, Instagram, Google y WhatsApp; datos exactos de colegiatura, inscripción y áreas.
-3. **Sesión de arranque** — media hora para alinear el mensaje, las ventajas a destacar y las fechas clave de la temporada.
-4. **Fase 1** — empezamos la preparación en los primeros 7 días.
+2. **Sesión de arranque** — media hora para alinear el mensaje, las ventajas a destacar y las fechas clave de la temporada.
+3. **Fase 1** — empezamos la preparación en los primeros 7 días.
 
 ---
 

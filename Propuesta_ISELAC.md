@@ -16,7 +16,7 @@ Hoy la prepa depende del boca a boca y de quien ya la conoce. Eso funciona, pero
 
 - **Mensajes de familias interesadas cada semana**, no goteo aislado. Papás y estudiantes que preguntan por el modelo de 2 años, las áreas y las inscripciones.
 - **Un costo real por prospecto y por inscripción.** Al final del primer mes sabremos cuánto cuesta traer un alumno nuevo. Con ese número ya se puede planear en serio.
-- **Perfiles y campañas listos para repetir cada temporada.** Lo que se construye este ciclo queda como base para el siguiente.
+- **Campañas y contenido listos para repetir cada temporada.** Lo que se construye este ciclo queda como base para el siguiente.
 
 ---
 
@@ -46,7 +46,7 @@ Del anuncio a la inscripción, paso a paso. Cada pieza del sistema tiene un trab
 |-------|---------------------|-------------------------------|
 | **1. Necesidad** | Un papá o un joven quiere terminar la prepa más rápido, o busca una opción con mejor nivel | Segmentación de las campañas (a qué familias les aparece el anuncio) |
 | **2. Descubrimiento** | Ve un anuncio de ISELAC en Facebook o Instagram mientras usa el celular | Campañas Meta Ads segmentadas a la zona de Lázaro Cárdenas |
-| **3. Interés** | Le llama la atención el "prepa en 2 años" o el Python, entra al perfil o al anuncio | Creativos de campaña + perfiles optimizados |
+| **3. Interés** | Le llama la atención el "prepa en 2 años" o el Python, entra al perfil o al anuncio | Creativos de campaña + contenido orgánico |
 | **4. Contacto** | Escribe por WhatsApp o deja sus datos preguntando por inscripciones | Formulario / WhatsApp Business con respuesta rápida |
 | **5. Inscripción** | Recibe la información, agenda visita o llamada, se inscribe | Seguimiento del equipo de ISELAC + material de apoyo |
 | **6. Permanencia** | Cursa los 2 años, recomienda a otras familias | Reseñas y perfil que sostienen la recomendación |
@@ -59,15 +59,7 @@ Sin este camino, ISELAC solo captura a quien ya la conocía. Con él, aparece fr
 
 Un solo paquete, pensado para arrancar la pauta a tiempo y con orden. Estas son las piezas:
 
-### 1. Optimización de perfiles digitales
-
-Cuando alguien ve el anuncio, lo primero que hace es revisar las redes. Tienen que verse serias y actuales.
-
-- Facebook (@CEEDISELAC) e Instagram (@prepa.iselac): bio, portada, botón de WhatsApp, destacados con la información que más preguntan.
-- Google Business: para que ISELAC aparezca cuando alguien busca "preparatoria en Lázaro Cárdenas".
-- WhatsApp Business: mensaje de bienvenida, respuestas rápidas y catálogo de la oferta.
-
-### 2. Campañas en Meta Ads
+### 1. Campañas en Meta Ads
 
 El motor de la propuesta. Aquí es donde el presupuesto de pauta se convierte en mensajes de familias reales.
 
@@ -75,18 +67,15 @@ El motor de la propuesta. Aquí es donde el presupuesto de pauta se convierte en
 - Diseño de los creativos incluido: imágenes y videos cortos que muestran lo que distingue a ISELAC, no un anuncio genérico de "inscripciones abiertas".
 - Píxel y seguimiento para saber qué anuncio trae los mejores prospectos.
 - Pruebas A/B y ajustes semanales durante la temporada.
+- Reporte mensual claro: cuántos mensajes llegaron, cuánto costó cada uno, cuántos se convirtieron en inscripción y qué vamos a ajustar. Sin tecnicismos.
 
-### 3. Contenido orgánico en redes (3 publicaciones por semana)
+### 2. Contenido orgánico en redes (3 publicaciones por semana)
 
 Los anuncios traen a la familia; el perfil la termina de convencer. Cuando alguien ve el anuncio y entra a Instagram o Facebook, tiene que encontrar una cuenta viva, no una que subió su última foto hace tres meses.
 
 - **12 publicaciones al mes** (3 por semana) en Facebook e Instagram: mezcla de imágenes, carruseles y reels cortos.
 - Contenido alineado a la temporada: vida en la prepa, testimonios de alumnos, el modelo de 2 años, Python/Algorithmics, talleres, fechas de inscripción.
 - Redacción, diseño y programación de todo, listo para revisión de ISELAC antes de publicar.
-
-### 4. Reporte mensual
-
-Cada mes, un reporte claro: cuántos mensajes llegaron, cuánto costó cada uno, cuántos se convirtieron en inscripción y qué vamos a ajustar. Sin tecnicismos innecesarios.
 
 ---
 
@@ -137,19 +126,13 @@ Por eso la pauta en una prepa se paga sola rápido: un solo alumno que entra por
 
 Pensado para arrancar rápido, porque la temporada corre. Las campañas están en el aire en la primera semana.
 
-### Fase 1: Preparación (Semana 1)
+### Fase 1: Lanzamiento (Semana 1)
 
-Optimización de perfiles, instalación del píxel, armado de la estructura de campañas y diseño de los primeros creativos. Dejamos listo el calendario de contenido del primer mes y definimos con ISELAC el mensaje y las ventajas a destacar.
+Armamos la estructura de campañas, el píxel y los primeros creativos, y encendemos. Monitoreo diario para no desperdiciar presupuesto. Empiezan a llegar los primeros mensajes y sacamos el costo por prospecto inicial.
 
-> **Hito:** perfiles listos y campañas cargadas, listas para encender al cierre de la semana.
+> **Hito:** campañas en el aire y primeros leads con costo por mensaje real.
 
-### Fase 2: Lanzamiento (Semana 2)
-
-Se prenden las campañas. Monitoreo diario para no desperdiciar presupuesto. Empiezan a llegar los primeros mensajes y sacamos el costo por prospecto inicial.
-
-> **Hito:** primeros leads y costo por mensaje real sobre la mesa.
-
-### Fase 3: Optimización (Semana 3 en adelante)
+### Fase 2: Optimización (Semana 2 en adelante)
 
 Se corta lo que no jala, se sube lo que sí. Pruebas A/B de anuncios, rotación de mensajes y foco en el cierre de la temporada.
 
@@ -163,10 +146,8 @@ Un solo paquete, enfocado en lo que ISELAC necesita ahora: arrancar la captació
 
 | Componente | Incluido |
 |------------|:--------:|
-| Optimización de perfiles digitales (FB, IG, Google Business, WhatsApp) | ✅ |
-| Campañas en Meta Ads (incluye diseño de creativos) | ✅ |
+| Campañas en Meta Ads (creativos + reporte mensual) | ✅ |
 | Contenido orgánico: 3 publicaciones/semana en FB e IG (12 al mes) | ✅ |
-| Reporte mensual | ✅ |
 | | |
 | **FEE MENSUAL (gestión)** | **$4,000 MXN** |
 

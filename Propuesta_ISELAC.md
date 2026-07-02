@@ -101,11 +101,11 @@ Con **$6,000 MXN mensuales de pauta** en Meta Ads, dirigida a familias de la zon
 | **Familias que escriben / dejan datos** | ~90 | ~150 |
 | **Prospectos calificados** | ~36 (40%) | ~75 (50%) |
 | **Inscripciones al mes** | **4** (cierre 12%) | **12** (cierre 16%) |
-| **Colegiatura mensual** | $3,000 | $3,000 |
-| **Ingreso mensual recurrente que suma esa cohorte** | **$12,000** | **$36,000** |
+| **Colegiatura mensual** | $2,500 | $2,500 |
+| **Ingreso mensual recurrente que suma esa cohorte** | **$10,000** | **$30,000** |
 | **Costo por inscripción (solo pauta)** | **$1,500** | **$500** |
 
-> ⚠️ **Nota:** el "cierre" en una prepa no es inmediato. Un papá pregunta, lo piensa, visita, compara. Estas cifras suponen que el equipo de ISELAC da seguimiento rápido a cada mensaje. Las tasas reales se validan con los datos de las primeras 2-3 semanas de campaña. El ticket de colegiatura ($3,000) es el punto medio del rango que manejamos; se ajusta con el dato exacto de ISELAC.
+> ⚠️ **Nota:** el "cierre" en una prepa no es inmediato. Un papá pregunta, lo piensa, visita, compara. Estas cifras suponen que el equipo de ISELAC da seguimiento rápido a cada mensaje. Las tasas reales se validan con los datos de las primeras 2-3 semanas de campaña.
 
 ---
 
@@ -113,20 +113,20 @@ Con **$6,000 MXN mensuales de pauta** en Meta Ads, dirigida a familias de la zon
 
 Aquí está lo importante. En una prepa, una inscripción no es una venta de una vez — es un alumno que paga colegiatura durante todo el programa. El costo de traerlo se recupera en las primeras mensualidades; todo lo demás es margen.
 
-Un alumno que entra y termina el programa de 2 años deja alrededor de **$60,000 en colegiaturas** (sin contar inscripción ni reinscripción). Tomemos el escenario conservador: 4 alumnos por mes durante julio y agosto son **8 alumnos nuevos** en la temporada. Así se ve su valor:
+Un alumno que entra y termina el programa de 2 años deja alrededor de **$50,000 en colegiaturas** (sin contar inscripción ni reinscripción). Tomemos el escenario conservador: 4 alumnos por mes durante julio y agosto son **8 alumnos nuevos** en la temporada. Así se ve su valor:
 
 | Concepto | Alumnos | Valor por alumno | Ingreso |
 |----------|---------|------------------|---------|
-| Colegiaturas del primer año | 8 | $30,000 | $240,000 |
-| Segundo año (retención ~80%) | ~6 | $30,000 | $180,000 |
-| Un referido por cada 3 familias satisfechas | ~3 | $60,000 (programa completo) | $180,000 |
-| **Valor total de la cohorte de temporada** | | | **$600,000+** |
+| Colegiaturas del primer año | 8 | $25,000 | $200,000 |
+| Segundo año (retención ~80%) | ~6 | $25,000 | $150,000 |
+| Un referido por cada 3 familias satisfechas | ~3 | $50,000 (programa completo) | $150,000 |
+| **Valor total de la cohorte de temporada** | | | **$500,000+** |
 
 | Métrica | Valor |
 |---------|-------|
 | Inversión total del periodo (2 meses: gestión $4,000 + pauta $6,000) | $20,000 |
 | Alumnos nuevos estimados en julio–agosto (conservador) | ~8 |
-| Valor de esos alumnos a lo largo del programa | **$600,000+** |
+| Valor de esos alumnos a lo largo del programa | **$500,000+** |
 | **Retorno** | Con que se inscriba 1 solo alumno ya se cubre la inversión de los dos meses |
 
 Por eso la pauta en una prepa se paga sola rápido: un solo alumno que entra por la campaña recupera con creces los dos meses de inversión. Cada inscripción adicional después de esa es ganancia que se extiende dos años.
